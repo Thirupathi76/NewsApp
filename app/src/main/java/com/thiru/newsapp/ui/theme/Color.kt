@@ -1,4 +1,4 @@
-package com.thiru.dummyproject.ui.theme
+package com.thiru.newsapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.thiru.dummyproject
+package com.thiru.newsapp
 
 import org.junit.Test
 

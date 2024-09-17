@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.thiru.dummyproject"
+    namespace = "com.thiru.newsapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.thiru.dummyproject"
+        applicationId = "com.thiru.newsapp"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
